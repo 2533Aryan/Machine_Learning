@@ -1,4 +1,5 @@
 # Machine Learning
 
 - Assignments
-- Quiz  
+- Quiz
+- RICE  
