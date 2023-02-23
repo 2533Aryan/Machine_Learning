@@ -3,3 +3,4 @@
 - Assignments
 - Quiz
 - RICE  
+- Classworks
