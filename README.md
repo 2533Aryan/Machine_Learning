@@ -1,6 +1,6 @@
 # Machine Learning
 
 - Assignments
-- Quiz
+- Quiz Review
 - RICE Reports
 - Classworks
