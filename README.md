@@ -2,5 +2,5 @@
 
 - Assignments
 - Quiz
-- RICE
+- RICE Reports
 - Classworks
