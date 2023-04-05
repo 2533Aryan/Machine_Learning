@@ -1,5 +1,5 @@
 # Machine Learning
-By
+By: Aryan
 - Assignments
 - Quiz Reviews
 - RICE Reports
